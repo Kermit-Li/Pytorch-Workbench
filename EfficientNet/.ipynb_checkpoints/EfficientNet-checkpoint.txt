@@ -1,0 +1,3 @@
+Epoch: 0, Loss: 2.96, Accuracy: 0.08,             Test Accuracy: 0.05, Test loss: 2.96, Time: 0:01:20.916500
+Epoch: 1, Loss: 2.70, Accuracy: 0.14,             Test Accuracy: 0.06, Test loss: 3.12, Time: 0:02:41.852169
+Epoch: 2, Loss: 2.12, Accuracy: 0.34,             Test Accuracy: 0.27, Test loss: 3.56, Time: 0:04:02.181693
